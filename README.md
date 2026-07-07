@@ -47,6 +47,18 @@ Compatible con:
 Se recomienda utilizar la siguiente versión:
 
 - Python 3.13 o superior
+  
+---
+
+## Requisitos de hardware
+
+Se recomienda disponer de:
+
+- Procesador: 2 núcleos o superior.
+- Memoria RAM: 4 GB (8 GB recomendados).
+- Espacio en disco: 200 MB libres.
+- Resolución de pantalla: 1280 × 720 o superior.
+- Tarjeta de sonido y altavoces o auriculares.
 
 ---
 
