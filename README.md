@@ -83,7 +83,7 @@ La aplicación requiere las siguientes librerías:
 ```
 Proyecto/
 │
-├── APP.py
+├── Sintetizador.py
 │
 ├── Diccionarios/
 │   ├── Di.pkl
@@ -133,7 +133,7 @@ Estos archivos son opcionales y únicamente se utilizan para mostrar los logotip
 Desde la carpeta del proyecto ejecutar:
 
 ```bash
-python APP.py
+python Sintetizador.py
 ```
 
 La aplicación localizará automáticamente:
