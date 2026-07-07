@@ -37,7 +37,7 @@ El sintetizador, permite:
 Compatible con:
 
 - Windows 10/11
-- Linux (Ubuntu recomendado)
+- Linux
 - macOS
 
 ---
@@ -124,9 +124,14 @@ Desde la carpeta del proyecto ejecutar:
 python APP.py
 ```
 
+La aplicación localizará automáticamente:
+
+- Los dos diccionarios.
+- Las dos imágenes.
+
 ---
 
-# Funcionamiento
+# Flujo de funcionamiento
 
 ## 1. Seleccionar el tipo de paciente
 
@@ -232,9 +237,10 @@ La aplicación genera:
 
 # Autor
 
-Antonio Carrasco Garrido
+**Antonio Carrasco Garrido**
 
 Escuela Politécnica Superior de Linares
-Universidad de Jaén
+
+*Universidad de Jaén*
 
 Año 2026
