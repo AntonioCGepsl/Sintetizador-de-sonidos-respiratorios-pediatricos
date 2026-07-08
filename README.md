@@ -14,6 +14,10 @@ El sintetizador, permite:
 - Escuchar el sonido generado.
 - Guardar el audio en formato WAV.
 
+**Imagen de la interfaz:**
+
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/5fdf3521-d499-4988-b940-d7e602e36ec3" />
+
 ---
 
 # Características
