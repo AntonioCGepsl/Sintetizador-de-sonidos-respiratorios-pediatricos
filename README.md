@@ -168,7 +168,7 @@ Se pueden modificar:
 
 - **Frecuencia (Hz):** Entre 60 y 1000
 - **Duración (s):** Entre 0,2 y 2,0 s
-- **Pendiente:** Entre −50 y 50
+- **Pendiente:** Entre −200 y 200
 - **Vibrato (Hz):** Entre 0 y 6
 - **SNR, Relación señal/ruido (dB):** Entre −20 y 20 dB
 - **Tipo de sibilancia:** Monofónica o Polifónica
